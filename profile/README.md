@@ -4,9 +4,13 @@
 
 Welcome to **EthioRX Online Pharmacy**, the premier platform for accessing prescription and over-the-counter medications with ease and speed throughout Ethiopia. 🇪🇹
 
+<br>
+
 ## 🔍 Overview
 
 **EthioRX** is committed to transforming the way medications are accessed and delivered. Founded by **PharmaTeam** and operated by **EthioRX Ltd.**, our platform leverages cutting-edge technology and strategic partnerships to offer a seamless, user-friendly experience for ordering medications online.
+
+<br>
 
 ## 🚀 Key Features
 
@@ -30,6 +34,9 @@ Welcome to **EthioRX Online Pharmacy**, the premier platform for accessing presc
 - **Language Options**: We offer customer support in English, Amharic, and Oromiffa to cater to diverse linguistic needs.
 - **Accessible Support**: Our support page provides detailed guidance on order steps and frequently asked questions.
 
+<br>
+<br>
+
 ## 🛫 Getting Started
 
 ### 1. Account Creation
@@ -49,9 +56,17 @@ After placing your order, you will receive email notifications and can track you
 
 When buying drugs that arent over the counter, you need to recieve a one time 12 character alphanumeric code from your liscenced healthcare provider that works in one of our trusted parteners.
 
+
+<br>
+<br>
+
 ## 🤝 Our Trusted Partners
 
 EthioRX collaborates with a network of reputable medical facilities and pharmacies to ensure that all prescriptions are fulfilled according to best practices. This collaboration guarantees that you receive authentic and safe medications.
+
+
+<br>
+<br>
 
 ## 📞 Contact and Support
 
