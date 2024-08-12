@@ -78,7 +78,7 @@ For any inquiries or support, reach out to us through the following channels:
 
 For more information, visit our [Support Page](https://ethiorx.github.io/pages/support.html).
 
-[EthioRX Partners](https://ethiorx.github.io/)
+[EthioRX Partners](https://ethiorx.github.io/#:~:text=Our%20Trusted%20Partners)
 
 *EthioRX ® was founded by PharmaTeam and is hosted by EthioRX Ltd. EthioRX Ltd. is a registered company in Ethiopia & East Africa with number: +25191234567, registered address: Addis Ababa.*
 
